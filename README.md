@@ -5,8 +5,10 @@ $\bullet$ Yield Curve Models and Stochastic Interest Rates with US Department of
 3. Applied maximum likelihood estimation and Monte Carlo simulation to evaluate predictions against current data
 
 
-# Resources used
+### References
 Python for Finance - Yves Hilpisch 
+
 Mehul Mehta YouTube channel
-US Treasury Data: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024.
+
+US Treasury Data from https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024.
 
